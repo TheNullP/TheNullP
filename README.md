@@ -6,10 +6,9 @@ Estou cursando Ciências da Computação,
 aprendendo a linguangem **python** e buscando desenvolver soluções criativas e eficientes para os desafios da área.<br></br>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/1_yuusha)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-fretas-0a409a244/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/marcos-fretas-0a409a244/](https://www.linkedin.com/in/marcos-antonio-freitas-costa-0a409a244/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mfreitas_0/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mfreitasc0@gmail.com)
-<hr>
+
 
 
 ### GitHub Stats and Most Used Languages
