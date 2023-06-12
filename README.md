@@ -14,7 +14,7 @@ aprendendo a linguangem **python** e buscando desenvolver soluções criativas e
 ### GitHub Stats and Most Used Languages
 <br> 
 
-![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Mfreitas0&show_icons=true&theme=dracula)
+<!-- ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Mfreitas0&show_icons=true&theme=dracula) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mfreitas0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </br>
