@@ -2,8 +2,8 @@
 
 
 <br>Apaixonado por tecnologia.</br>
-Estou cursando Ciências da Computação,
-aprendendo a linguangem **python** e buscando desenvolver soluções criativas e eficientes para os desafios da área.<br></br>
+Cursando Ciências da Computação,
+desenvolvendo soluções criativas e eficientes para os desafios da área.<br></br>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/1_yuusha)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mfreitas_0/)
