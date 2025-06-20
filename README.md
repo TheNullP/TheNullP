@@ -14,7 +14,7 @@ Cursando Ciência da Computação, desenvolvendo soluções criativas e eficient
 
 <!-- ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=TheNullP&show_icons=true&theme=dracula) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mfreitas0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNullP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 <hr> 
 
