@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Marcos Freitas👋
 
 
-<br>💻 Apaixonado por tecnologia.</br>
-Cursando Ciência da Computação, desenvolvendo soluções criativas e eficientes para os desafios da área. Busco sempre aprender e aplicar meus conhecimentos em tecnologia e desenvolvimento de software.
+Desenvolvendo soluções criativas e eficientes para os desafios da área. Busco sempre aprender e aplicar meus conhecimentos em tecnologia e desenvolvimento de software.
 
 🚀 Em busca de oportunidades para crescer profissionalmente e contribuir com inovação!<br></br>
 
